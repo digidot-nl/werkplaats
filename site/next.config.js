@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'MenM Inc.',
     description: 'menm werkplaats',
     icon: '/img/logo.svg',
-    listUrl: 'https://github.com/digidot-nl/werkplaats/',
+    listUrl: 'https://digidot-nl.github.io/werkplaats/',
     contactUrl: 'https://github.com/digidot-nl/werkplaats/issues',
   },
   reactStrictMode: true,
